@@ -1,0 +1,25 @@
+@charset "Shift_JIS";
+
+
+h1 {
+	color: red;
+	font-size: 170%;
+	font-family: Arial,Verdana,"MS Pゴシック",sans-serif;
+	background-image: url(../images/grd_test.gif);
+	background-repeat: repeat-y;
+}
+
+h2 {
+	background-image: url(../images/back_test.gif);
+}
+
+h3 {
+	background-image: url(../images/bar_test.gif);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+}
+
+body {
+	line-height: 1.3;
+	letter-spacing: 0.04em;
+}
